@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:resource name="/pet/findByStatus" path="/pet/findByStatus" id="4d184a8d-7e08-4a5d-9837-d324ffed7e20" xmlns:con="http://eviware.com/soapui/config"><con:settings id="8af8dd97-d1ac-4bb9-b3b0-84f8850a998a"><con:setting id="4d184a8d-7e08-4a5d-9837-d324ffed7e20fileName">%2Fpet%2FfindByStatus</con:setting></con:settings><con:parameters/><con:method name="findPetsByStatus" id="595cef7f-66e5-4a7f-a1ef-8c3a151910c6" method="GET"><con:description>Multiple status values can be provided with comma separated strings
+Finds Pets by status</con:description><con:settings/><con:parameters><con:parameter required="true"><con:name>status</con:name><con:style>QUERY</con:style><con:dataType>array</con:dataType><con:description>Status values that need to be considered for filter</con:description></con:parameter></con:parameters><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>200</con:status><con:params/><con:sampleContent xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/></con:representation><con:representation type="RESPONSE"><con:mediaType>application/xml</con:mediaType><con:status>200</con:status><con:params/><con:sampleContent><![CDATA[<object>
+   <AnonymousModel>
+      <id>0</id>
+      <Category>
+         <id>0</id>
+         <name>string</name>
+      </Category>
+      <name>doggie</name>
+      <photoUrlss>
+         <photoUrl>string</photoUrl>
+      </photoUrlss>
+      <tagss>
+         <tag>
+            <id>0</id>
+            <name>string</name>
+         </tag>
+      </tagss>
+      <status>available</status>
+   </AnonymousModel>
+</object>]]></con:sampleContent></con:representation><con:representation type="RESPONSE"><con:mediaType>application/json</con:mediaType><con:status>400</con:status><con:params/></con:representation><con:representation type="RESPONSE"><con:mediaType>application/xml</con:mediaType><con:status>400</con:status><con:params/></con:representation><con:request name="Request 1" id="961cc2c1-0687-4723-9d6b-3c1f166b191f" mediaType="application/json"><con:settings/><con:endpoint>http://petstore.swagger.io</con:endpoint><con:parameters/></con:request></con:method></con:resource>

@@ -13,4 +13,4 @@ Swagger-Petstore\%2Fuser%2Flogout.xml
 Swagger-Petstore\%2Fuser%2FcreateWithArray.xml
 Swagger-Petstore\%2Fuser.xml
 DataDrivenDemo\Tc_GetPetByID.xml
-Load-Test-1.xml
+Tc_GetPetByID-LoadTest.xml

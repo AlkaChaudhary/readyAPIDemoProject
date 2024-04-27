@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://drive.google.com/file/d/1QoI906lmjb0JJoIKsmgXD0TB5creo0uX/view" width="196">
-<br/>
-</p>
-
 
 # READY API DataDriven Testing Demo
 

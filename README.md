@@ -1,5 +1,5 @@
 
-![Alt Text](https://i.im.ge/2024/04/28/Zwuvv9.Screenshot-2024-04-28-at-13-07-32.png)
+![Screenshot](https://i.im.ge/2024/04/28/Zwuvv9.Screenshot-2024-04-28-at-13-07-32.png)
 
 
 # READY API DataDriven Testing Demo

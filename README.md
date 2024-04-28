@@ -1,6 +1,7 @@
 
-[![Zwuvv9.Screenshot-2024-04-28-at-13-07-32.png](https://i.im.ge/2024/04/28/Zwuvv9.Screenshot-2024-04-28-at-13-07-32.png)](https://im.ge/i/Screenshot-2024-04-28-at-13-07-32.Zwuvv9)
 
+
+![Screenshot 2024-04-28 at 13 07 32](https://github.com/AlkaChaudhary/readyAPIDemoProject/assets/87438786/8f488d6d-78c8-46b9-b972-d560b814c407)
 
 
 # READY API DataDriven Testing Demo
